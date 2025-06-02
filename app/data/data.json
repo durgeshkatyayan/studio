@@ -1,0 +1,54 @@
+{
+  "internalExperiences": [
+    {
+      "id": 1,
+      "title": "Spa",
+      "description": "Relax at our world-class spa with a variety of treatments.",
+      "image": "https://via.placeholder.com/300x200/8B5CF6/ffffff?text=Spa"
+    },
+    {
+      "id": 2,
+      "title": "Gym",
+      "description": "State-of-the-art fitness center open 24/7.",
+      "image": "https://via.placeholder.com/300x200/EF4444/ffffff?text=Gym"
+    },
+    {
+      "id": 3,
+      "title": "Pool",
+      "description": "Olympic-sized swimming pool with panoramic views.",
+      "image": "https://via.placeholder.com/300x200/06B6D4/ffffff?text=Pool"
+    },
+    {
+      "id": 4,
+      "title": "Restaurant",
+      "description": "Fine dining experience with international cuisine.",
+      "image": "https://via.placeholder.com/300x200/F59E0B/ffffff?text=Restaurant"
+    }
+  ],
+  "externalExperiences": [
+    {
+      "id": 1,
+      "name": "Café Delight",
+      "distance": "0.5 km",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Ocean Bistro",
+      "distance": "1.2 km",
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "name": "Mountain View Restaurant",
+      "distance": "0.8 km",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Local Street Food",
+      "distance": "0.3 km",
+      "rating": 4.2
+    }
+  ]
+}
